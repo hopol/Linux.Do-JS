@@ -1,5 +1,5 @@
-commit=b83aab90305d9eb52431a54c00871dbbe8c87f5d
-timestamp=2026-09-01T06:53:09Z
+commit=5079029150abe78162e7213c8b41be964c0d888b
+timestamp=2026-10-06T08:14:15Z
 upstream_url=https://github.com/xiaowanjiagit/linuxdo
 upstream_branch=master
-version=2.4.2
+version=2.5.0
